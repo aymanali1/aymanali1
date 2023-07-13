@@ -1,12 +1,12 @@
 <!-- TO DO: add more details about me later -->
-
-
+<a href="https://ibb.co/VCNKz09"><img src="https://i.ibb.co/R6S5sGb/what-is-data-analyst.jpg" alt="what-is-data-analyst" border="0"></a>
+<!--
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://ibb.co/VCNKz09">
   <source media="(prefers-color-scheme: light)" srcset="https://ibb.co/VCNKz09">
   <img alt="A data analyst sitting in front of screens showing data charts." src="https://ibb.co/VCNKz09">
 </picture>
-
+-->
 
 <br>
 
