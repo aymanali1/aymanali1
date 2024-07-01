@@ -3,12 +3,17 @@
 ![I'm a data analyst and Machine learning enthusiast](https://github.com/aymanali1/aymanali1/blob/main/github-header-image%20(1).png?raw=true)
 
 ### Hi there 👋, I'm Ayman Ali 
-#### I'm a data analyst and Machine learning enthusiast
-
 
 Hello and welcome to my GitHub profile! I'm Ayman Ali, a data analyst with a strong technical foundation in SQL, Python, R, Excel, Power BI and Tableau. With a background in graphic design and Business administration, I bring a unique perspective to data analysis, combining analytical rigor with a focus on customer experience and business impact. I'm committed to using data to solve business problems and help organizations achieve their goals. Thanks for visiting my profile, and I look forward to collaborating with you on data-driven projects!
 
-Skills: Python / SQL / R / Power BI / Tableau / Excel
+## Skills
+* 🐍 Python
+* 📀 SQL
+* 📝 R
+* 📄 Excel
+* 📊 Power BI
+* 📈 Tableau
+
 
 - 🔭 I’m currently working on this page. 
 
