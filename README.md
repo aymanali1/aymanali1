@@ -30,8 +30,6 @@ Hello and welcome to my GitHub profile! I'm Ayman Ali, a data analyst with a str
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=aymanali1&show_icons=true)  
 
-![GitHub metrics](https://metrics.lecoq.io/aymanali1)  
-
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=aymanali1)  
 
 
