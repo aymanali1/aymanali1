@@ -15,10 +15,23 @@ Hello and welcome to my GitHub profile! I'm Ayman Ali, a data analyst with a str
 * 📈 Tableau
 
 
+
 - 🔭 I’m currently working on this page. 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/aymanali1)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/aymn3li)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ayman-shehab/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/codeon-rb7ho)  
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/aymanali1)  
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=aymanali1)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aymanali1)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=aymanali1&show_icons=true)  
+
+![GitHub metrics](https://metrics.lecoq.io/aymanali1)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=aymanali1)  
 
 
 
