@@ -23,24 +23,7 @@ Hello and welcome to my GitHub profile! I'm Ayman Ali, a data analyst with a str
 
 
 
-<br>
 
-
-<details open>
-<summary>My Top Tools Skills</summary>
-<br>
-
-| Rank | Tools             |
-|-----:|-------------------|
-|     1| Power BI          |
-|     2| Python            |
-|     3| SQL               |
-|     4| Excel             |
-|     5| R & Rstudio       |
-|     6| Tableau           |
-
-
-</details>
 
 
 ---
