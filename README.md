@@ -1,6 +1,6 @@
 
 
-![I'm a data analyst and Software enthusiast](https://github.com/aymanali1/aymanali1/blob/main/github-header-image%20(1).png?raw=true)
+![I'm a data analyst and Software enthusiast](https://github.com/aymanali1/aymanali1/blob/e48d351eaf2fd84b05a259aadb443c603fed0dc8/dataanalystcover.jpg)
 
 # Hi there 👋, I'm Ayman Ali 
 
