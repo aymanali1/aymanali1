@@ -9,7 +9,6 @@ Hello and welcome to my GitHub profile! I'm Ayman Ali, a data analyst with a str
 ## Skills
 * 🐍 Python
 * 📀 SQL
-* 📝 R
 * 📄 Excel
 * 📊 Power BI
 * 📈 Tableau
@@ -18,7 +17,7 @@ Hello and welcome to my GitHub profile! I'm Ayman Ali, a data analyst with a str
 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/aymanali1)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/aymn3li)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ayman-shehab/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/codeon-rb7ho)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/aymanali1)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/aymn3li)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ayman-shehab/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/@CodeON-h1q)  
   
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=aymanali1)](https://github.com/ryo-ma/github-profile-trophy)
